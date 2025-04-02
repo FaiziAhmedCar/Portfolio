@@ -73,9 +73,9 @@ Feel free to fork the repository, create a feature branch, and submit a pull req
 
 For any inquiries, feel free to connect:
 
-- **Email:** [faiziahmedcar@gmail.com](mailto\:faiziahmedcar@gmail.com)
-- **LinkedIn:** [https://github.com/FaiziAhmedCar](https://github.com/FaiziAhmedCar)
-- **GitHub:** [https://github.com/FaiziAhmedCar](https://github.com/FaiziAhmedCar)
+- **Email:** [Email](mailto\:faiziahmedcar@gmail.com)
+- **LinkedIn:** [LinkedIn](https://github.com/FaiziAhmedCar)
+- **GitHub:** [GitHub](https://github.com/FaiziAhmedCar)
 
 ---
 
